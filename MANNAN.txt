@@ -1,0 +1,140 @@
+void main() 
+  
+  
+{
+  var zzi = "_______________________________________________________________                         ";
+  print(zzi);
+  var hhi = "_______________________________________________________________";
+  print(hhi);
+  var ing = "STUDENT NAME : ABUL MANNAN";
+    print(ing);
+  var hri = "_________________________________________";
+  print(hri);
+  var zzz = "CLASS = XI";
+  print(zzz);
+  var ggg = "___________________________";
+    print(ggg);
+  var hii = "INSTITUATE NAME : S.M GOVT ARTS AND COMMERCE COLLEGE";
+  print(hii);
+  var uuu = "______________________";
+  print(uuu);
+ 
+  var hi = "                        First              Year                 Examination          ";
+  print(hi);
+  
+  var hh = "SUBJECT";
+  print(hh);
+  
+  
+  var ii = "Urdu";
+  print(ii);
+  
+  num hff = 67;
+    print(hff);
+  
+  var gj = "English";
+  print(gj);
+  
+  num qq = 89;
+    print(qq);
+  
+  var hr = "Physics";
+    print(hr);
+  num tt = 76;
+  print(tt);
+  
+  var rr = "Maths";
+  print(rr);
+  num gg = 86;
+     print(gg);
+  
+ var dd = "Chemistry";
+  print(dd);
+  num wwe = 95;
+    print(wwe);
+  var no = "Total Marks";
+  print(no);
+  num hik = 500;
+  print(hik);
+  var ll = "Obtain Marks";
+  print(ll);
+  
+  var href = hff+qq+tt+gg+wwe;
+  print(href);
+  
+  var aa = "Percentage";
+  print(aa);
+  var isu = href*100/500;
+  print(isu);
+  
+  
+  
+  
+  var isi = "Your Grade is";
+    print(isi);
+  
+  if (isu >=90){
+    print("A+Grade");
+    
+  }else if(isu >=80){
+    print("A Grade");
+    
+  }else if (isu>=70){
+    print("B Grade");
+    
+  }else if (isu>=60){
+    print("C Grade");
+    
+  }else if (isu>=50){
+    print("D Grade");
+      
+  }else if (isu>=40){
+    print("FAIL");
+  }
+  
+  
+  
+  var yy = "                             GOOD LUCK FOR YOUR FUTURE                  ";  
+   print(yy);
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+}
+
